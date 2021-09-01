@@ -26,7 +26,7 @@ public class Exercicio1 {
 			System.out.println("O número (" + num2 + ") é o maior entre os três!");
 		}
 		else {
-			System.out.println("o número (" + num3 + ") é o maior entre os tr~ês!");
+			System.out.println("o número (" + num3 + ") é o maior entre os três!");
 		}
 		
 		leia.close();
